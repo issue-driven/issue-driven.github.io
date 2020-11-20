@@ -3,13 +3,13 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Issues Driven Blog
-subtitle: ''
-description: ''
+title: Issue Driven Blog
+subtitle: 'Hãy bắt đầu mọi thứ từ phân loại vấn đề'
+description: 'Hãy tìm và giải quyết càng nhiều vấn đề, để cuộc sống tốt đẹp hơn'
 keywords:
 author: DuyLP
-language: en
-timezone: ''
+language: vi
+timezone: 'UTC'
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://example.com/child' and root as '/child/'
@@ -41,7 +41,7 @@ external_link:
   exclude: ''
 filename_case: 0
 render_drafts: false
-post_asset_folder: false
+post_asset_folder: true
 relative_link: false
 future: true
 highlight:
@@ -67,7 +67,7 @@ index_generator:
   order_by: -date
 
 # Category & Tag
-default_category: uncategorized
+default_category: books
 category_map:
 tag_map:
 

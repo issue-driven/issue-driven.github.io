@@ -1,12 +1,12 @@
 ---
-title: Năng lượng của con người là gi?
+title: Cac loai năng lượng của con người
 categories: human
-tags: human
+tags: energy
 ---
 Bài này sẽ nói về năng lượng sinh học và năng lượng tinh thần. Hai năng lượng quan trọng chi phối đời sống của con người chúng ta.
 
 ## Năng lượng sinh học
- là năng lượng thiết yếu để con người duy trì được sự sống như việc ăn uống hít thở không khí. Năng lượng sinh học là điều kiện tiền đề để con người duy trì sự sống. 
+Là năng lượng thiết yếu để con người duy trì được sự sống như việc ăn uống hít thở không khí. Năng lượng sinh học là điều kiện tiền đề để con người duy trì sự sống. 
 
 ## Năng lượng tinh thần
 Năng lượng này thì chia làm nhiều loại hơn nhưng có thể phân làm bốn loại chính là năng lượng tình yêu, năng lượng giận dữ, năng lượng đam mê, năng lượng tiềm thức. 
