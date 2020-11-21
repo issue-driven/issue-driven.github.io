@@ -3,6 +3,7 @@ menu:
   Home: /
   Archives: /archives
 rss: /atom.xml
+banner: images/banner.png
 
 # Content
 excerpt_link: Read More
@@ -34,4 +35,4 @@ favicon: /favicon.png
 twitter:
 google_plus:
 fb_admins:
-fb_app_id:
+fb_app_id: lam.p.duy.9
