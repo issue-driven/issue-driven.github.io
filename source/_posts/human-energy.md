@@ -15,6 +15,8 @@ Năng lượng này thì chia làm nhiều loại hơn nhưng có thể phân l�
 Là năng lượng giúp con người có thể trở nên mạnh mẽ hơn nhiều lần nhằm chinh phục hay bảo vệ tình yêu của mình. Tinh yêu ở đây không chỉ là tình cảm giữa hai cá thể nam nữ mà còn là tình yêu đồng loại, gia đình, thiên nhiên... 
 
 ![Ảnh sưu tầm](images/teresa.jpg)
+{% asset_img teresa.jpg Ảnh sưu tầm %}
+
 Mẹ Têrêsa là một minh chứng cho thấy sức mạnh không giới hạn của năng lượng tình yêu.
 **Mẹ Têrêsa Calcutta nói về tình yêu**
 
