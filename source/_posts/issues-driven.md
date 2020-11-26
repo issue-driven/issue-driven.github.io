@@ -1,5 +1,5 @@
 ---
-title: Issue Driven là gi?
+title: Issue Driven
 categories: books
 tags: Issue Driven
 ---

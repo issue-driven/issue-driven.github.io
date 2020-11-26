@@ -24,10 +24,9 @@ Mẹ Têrêsa là một minh chứng cho thấy sức mạnh không giới hạn
 >Tôi luôn luôn nói rằng, tình yêu khởi sự từ gia đình trước đã, và sau đó mới đến thành phố hay đô thị. Yêu thương những người ở xa chúng ta thì dễ, nhưng yêu thương những người sống với chúng ta hay ngay cạnh chúng ta thì không luôn dễ dàng.
 
 ### Năng lượng giận dữ
-Chắc nhiều người đã từng trải qua những cơn giận dữ với người xung quanh mình rồi dẫn đến những hành động hay lời nói mà nếu ở trạng thái bình thường bạn sẽ không bao giờ để nó xảy ra. Hoặc như hai võ sĩ trước khi lên võ đài thường cố gắng kích thích sự giận dữ lên cao trước khi vào trận để tạo thêm hưng phấn.
+Chắc nhiều người đã từng trải qua những cơn giận dữ rồi sau khi trạng thái bình thường trở lại bạn hối tiếc vì mình không thể kiềm chế được hành động lúc nóng giận. Hoặc hai võ sĩ trước khi lên võ đài thường cố gắng kích thích sự giận dữ lên cao để tạo thêm năng năng lượng.
 
-Sự giận dữ thường kéo theo những hậu quả tiêu cực. Tuy nhiên nếu khéo hướng năng lượng vào việc tích cực sẽ giúp con người thêm động vượt qua nghịch cảnh.
-Ví dụ trong thời kì chiến tranh việc chứng kiến người thân, đồng đội hy sinh, sự căm giận kẻ thù tăng cao càng làm cho con người ta thêm năng lượng quyết tâm để đấu tranh giải phóng đất nước.
+Sự giận dữ thường kéo theo những hậu quả tiêu cực. Tuy nhiên nếu khéo hướng năng lượng vào việc tích cực sẽ giúp con người thêm động lực vượt qua nghịch cảnh. Ví dụ trong thời kì chiến tranh việc chứng kiến người thân, đồng đội hy sinh, sự căm giận kẻ thù tăng cao càng làm cho con người ta thêm năng lượng quyết tâm để đấu tranh giải phóng đất nước.
 {% asset_img angry.jpg "ảnh sưu tầm" %}
 
 ### Năng lượng đam mê
@@ -45,3 +44,6 @@ Có thể thấy phần lớn hành động của con người được thực h
 Năng lượng này con người hành động do xu hướng hay tác động áp lực từ bên ngoài dẫn đến hành động. 
 Môt người thường có xu hướng hành động theo số đông.
 {% asset_img tam_ly_dam_dong.jpg "ảnh sưu tầm" %}
+
+# Tống kết
+Như vậy năng lượng sinh học là điều kiện tiền đề của con người còn năng lượng tinh thần giúp con người sống một cuộc sống trở nên có ý nghĩa cho xã hội.
