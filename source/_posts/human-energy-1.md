@@ -12,7 +12,7 @@ Là năng lượng thiết yếu để con người duy trì được sự sốn
 Năng lượng này thì chia làm nhiều loại hơn nhưng có thể phân làm bốn loại chính là năng lượng tình yêu, năng lượng giận dữ, năng lượng đam mê, năng lượng tiềm thức. 
 
 ### Năng lượng tình yêu
-Là năng lượng giúp con người có thể trở nên mạnh mẽ hơn nhiều lần nhằm chinh phục hay bảo vệ tình yêu của mình. Tinh yêu ở đây không chỉ là tình cảm giữa hai cá thể nam nữ mà còn là tình yêu đồng loại, gia đình, thiên nhiên... 
+Năng lượng này giúp con người có thể trở nên mạnh mẽ hơn nhiều lần nhằm chinh phục hay bảo vệ tình yêu của mình. Tinh yêu ở đây không chỉ là tình cảm giữa hai cá thể nam nữ mà còn là tình yêu đồng loại, gia đình, thiên nhiên... 
 
 {% asset_img teresa.jpg "ảnh sưu tầm" %}
 
@@ -24,13 +24,16 @@ Mẹ Têrêsa là một minh chứng cho thấy sức mạnh không giới hạn
 >Tôi luôn luôn nói rằng, tình yêu khởi sự từ gia đình trước đã, và sau đó mới đến thành phố hay đô thị. Yêu thương những người ở xa chúng ta thì dễ, nhưng yêu thương những người sống với chúng ta hay ngay cạnh chúng ta thì không luôn dễ dàng.
 
 ### Năng lượng giận dữ
-Chắc nhiều người đã từng trải qua những cơn giận dữ với người xung quanh mình rồi dẫn đến những hành động hay lời nói mà nếu ở trạng thái bình thường bạn sẽ không bao giờ để nó xảy ra. Hoặc như hai võ sĩ trước khi lên võ đài thường cố gắng kích hoạt sự giận dữ tột độ của mình để có được thêm năng lượng để giành chiến thắng. 
-Sự giận dữ thường kéo theo những hậu quả tiêu cực. Tuy nhiên nếu khéo vận dụng sự giận dữ đúng nó sẽ tiếp sức tạo thêm động lực cho con người vượt qua nghịch cảnh.
-Ví dụ trong thời kì chiến tranh việc chứng kiến người thân, đồng đội hy sinh, sự căm giận kẻ thù càng làm cho con người ta thêm năng lượng để đấu tranh giải phóng đất nước.
+Chắc nhiều người đã từng trải qua những cơn giận dữ với người xung quanh mình rồi dẫn đến những hành động hay lời nói mà nếu ở trạng thái bình thường bạn sẽ không bao giờ để nó xảy ra. Hoặc như hai võ sĩ trước khi lên võ đài thường cố gắng kích thích sự giận dữ lên cao trước khi vào trận để tạo thêm hưng phấn.
+
+Sự giận dữ thường kéo theo những hậu quả tiêu cực. Tuy nhiên nếu khéo hướng năng lượng vào việc tích cực sẽ giúp con người thêm động vượt qua nghịch cảnh.
+Ví dụ trong thời kì chiến tranh việc chứng kiến người thân, đồng đội hy sinh, sự căm giận kẻ thù tăng cao càng làm cho con người ta thêm năng lượng quyết tâm để đấu tranh giải phóng đất nước.
 {% asset_img angry.jpg "ảnh sưu tầm" %}
 
 ### Năng lượng đam mê
-Đó là sở thích cá nhân của mỗi người nó giúp con người có thêm động lực để chinh phục được đam mê của mình, ví dụ nhiều người thích IPhone đời mới sẵn sàng xếp hàng từ đêm để là một trong những người sở hữu đầu tiên hay một số người có đam mê du lịch hoặc sưu tầm xe ...
+Đó là sở thích cá nhân của mỗi người nó giúp con người có thêm động lực để chinh phục được đam mê của mình, ví dụ nhiều người thích IPhone đời mới sẵn sàng xếp hàng từ đêm trước chờ mua cho bằng được. Hoặc số người có đam mê du lịch hoặc sưu tầm xe ...
+Sự đam mê này có rất nhiều loại có loại tích cực như mê đọch sách, âm nhạc, khám phá du lịch,... nhưng cũng có những loại đam mê tiêu cực như là rượu chè thuốc lá, bài bạc... Đểm chung của các loại đam mê này tạo động lực khiến con người sẵn sàng bỏ thời gian công sức, tiền bạc đế thỏa mãn niềm đam mê của mình.
+{% asset_img passion.jpg "ảnh sưu tầm" %}
 
 ### Năng lượng tiềm thức
 Là năng lượng được tích lũy từ kinh nghiệm sống của mỗi người. Khởi nguyên của tiềm thức là từ ý thức được lặp đi lặp lại nhiều lần trở thành tiềm thức.
