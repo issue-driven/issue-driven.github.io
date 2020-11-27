@@ -69,7 +69,7 @@ head:
         # Facebook admin ID
         fb_admins: 
         # Facebook App ID
-        fb_app_id: 
+        fb_app_id: lam.p.duy.9
     # Structured data of the page
     # https://developers.google.com/search/docs/guides/intro-structured-data
     structured_data:
@@ -217,17 +217,17 @@ widgets:
         position: left
         type: profile
         # Author name
-        author: Your name
+        author: Duy Lam
         # Author title
-        author_title: Your title
+        author_title: DuyLP
         # Author's current location
-        location: Your location
+        location: Tokyo
         # URL or path to the avatar image
         avatar: 
         # Whether show the rounded avatar image
-        avatar_rounded: false
+        avatar_rounded: true
         # Email address for the Gravatar
-        gravatar: 
+        gravatar: lamphucduy@hotmail.com
         # URL or path for the follow button
         follow_link: 'https://github.com/ppoffice'
         # Links to be shown on the bottom of the profile widget
