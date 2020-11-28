@@ -183,7 +183,7 @@ donates:
     -
         type: paypal
         # Paypal business ID or email address
-        business: ''
+        business: 'bdstokyo@gmail.com'
         # Currency code
         currency_code: USD
     # Wechat donate button configurations
