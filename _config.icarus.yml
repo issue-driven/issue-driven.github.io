@@ -155,7 +155,7 @@ search:
 comment:
     type: disqus
     # Disqus shortname
-    shortname: ''
+    shortname: 'issue-driven-github-io'
 # Donate plugin configurations
 # https://ppoffice.github.io/hexo-theme-icarus/categories/Plugins/Donation/
 donates:
@@ -302,9 +302,9 @@ widgets:
         position: left
         type: adsense
         # AdSense client ID
-        client_id: ''
+        client_id: 'ca-pub-5661620499679854'
         # AdSense AD unit ID
-        slot_id: ''
+        slot_id: '5934819978'
 # Plugin configurations
 # https://ppoffice.github.io/hexo-theme-icarus/categories/Plugins/
 plugins:
