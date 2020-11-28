@@ -4,7 +4,7 @@
 
 # Site
 title: Issue Driven Blog
-subtitle: 'Hãy bắt đầu mọi thứ từ phân loại vấn đề'
+subtitle: 'Hãy bắt đầu mọi thứ từ phân tìm đúng vấn đề'
 description: 'Hãy tìm và giải quyết càng nhiều vấn đề, để cuộc sống tốt đẹp hơn'
 keywords:
 author: DuyLP
@@ -13,7 +13,7 @@ timezone: 'UTC'
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://example.com/child' and root as '/child/'
-url: https://issues-driven-blog.github.io/
+url: https://issue-driven.github.io/
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
